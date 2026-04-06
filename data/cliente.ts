@@ -4,54 +4,54 @@
 export const dadosCliente = {
   // Cores do tema
   cores: {
-    primaryColor: "#10b981", // Verde profissional para dedetização
+    primaryColor: "#10b981", // Verde profissional para serviços técnicos
     secondaryColor: "#1f2937", // Cinza escuro
     accentColor: "#059669", // Verde escuro
   },
 
   // Informações de contato
   contato: {
-    whatsappNumber: "5544999324635",
-    whatsappLink: "https://wa.me/5544999324635?text=Olá, Preciso de um orçamento!!",
+    whatsappNumber: "5521970161801",
+    whatsappLink: "https://wa.me/5521970161801?text=Olá, Preciso de um orçamento!!",
     instagram: "https://instagram.com", // Adicione o link real se houver
     email: "",
-    endereco: "Rua Deodoro da Fonseca, s/n - Zona Norte - Maringá - PR, CEP: 87.1000-000",
-    telefone: "(44) 99932-4635",
+    endereco: "R. Saquarema, 68 - Campo Grande - Rio de Janeiro - RJ, CEP: 23050-110",
+    telefone: "(21) 97195-6489",
   },
 
   // Conteúdo principal
   conteudo: {
-    tituloPrincipal: "Lady Bug: Dedetizadora e Desentupidora em Maringá",
-    subtitulo: "Proteção Completa Contra Pragas!\nDedetização, desratização, descupinização e controle de pragas urbanas. Atendimento profissional, técnicas especializadas e segurança garantida. Protegemos sua casa ou empresa com soluções eficazes!",
+    tituloPrincipal: "Tetelestai Serviços Residênciais no Rio de Janeiro",
+    subtitulo: "Soluções Completas em Serviços!\nBombeiro hidráulico, eletricista, pintura e refrigeração. Atendimento profissional, técnicas especializadas e qualidade garantida. Resolvemos seus problemas com soluções eficazes e confiáveis!",
     sobreNos:
-      "Somos a Dedetizadora e Desentupidora Lady Bug, especialistas em controle de pragas com atendimento profissional na Zona Norte de Maringá. Utilizamos técnicas especializadas e produtos de qualidade para resolver problemas com baratas, formigas, roedores, cupins e outras pragas. Nossa equipe experiente oferece soluções rápidas e confiáveis para residências, comércios e condomínios, com garantia de trabalho seguro e eficaz.",
+      "Somos a Tetelestai, especialistas em serviços técnicos residenciais com atendimento profissional em Campo Grande e região metropolitana do Rio de Janeiro. Oferecemos soluções completas em bombeiro hidráulico, eletricista, pintura e refrigeração. Nossa equipe experiente oferece atendimento rápido e confiável para residências e comércios, com garantia de trabalho seguro e eficaz.",
   },
 
   // Serviços oferecidos
   servicos: [
     {
       id: 1,
-      titulo: "Dedetização",
-      descricao: "Controle especializado de baratas, formigas e pragas rasteiras",
-      icone: "Worm",
+      titulo: "Bombeiro Hidráulico",
+      descricao: "Consertos em encanação, vazamentos, tubulações e sistemas hidráulicos",
+      icone: "Wrench",
     },
     {
       id: 2,
-      titulo: "Desratização",
-      descricao: "Controle preventivo e corretivo de roedores com monitoramento",
-      icone: "Rat",
+      titulo: "Eletricista",
+      descricao: "Instalações elétricas, reparo de fiação e manutenção de circuitos",
+      icone: "Lightbulb",
     },
     {
       id: 3,
-      titulo: "Descupinização",
-      descricao: "Tratamento técnico contra cupins de solo e madeira seca",
-      icone: "BugOff",
+      titulo: "Pintura",
+      descricao: "Pintura residencial, comercial e acabamentos de alta qualidade",
+      icone: "Paintbrush",
     },
     {
       id: 4,
-      titulo: "Controle de Pragas Urbanas",
-      descricao: "Gestão integrada para condomínios e empresas",
-      icone: "ShieldCheck",
+      titulo: "Refrigeração",
+      descricao: "Instalação, manutenção e reparo de sistemas de ar condicionado",
+      icone: "Thermometer",
       destaque: true,
     },
   ],
@@ -60,15 +60,15 @@ export const dadosCliente = {
   recursos: [
     {
       titulo: "Atendimento Profissional",
-      descricao: "Equipe qualificada e experiente",
+      descricao: "Equipe qualificada e experiente em todos os serviços",
     },
     {
       titulo: "Técnicas Especializadas",
-      descricao: "Soluções eficazes e seguras para todos os tipos de pragas",
+      descricao: "Soluções eficazes e seguras para residências e comércios",
     },
     {
-      titulo: "Zona Norte de Maringá",
-      descricao: "Serviços em toda a região metropolitana",
+      titulo: "Campo Grande, Rio de Janeiro",
+      descricao: "Serviços em toda a região metropolitana do RJ",
     },
   ],
 
@@ -76,33 +76,33 @@ export const dadosCliente = {
   depoimentos: [
     {
       id: 1,
-      nome: "Claudio M.",
+      nome: "Fernando C.",
       profissao: "Residencial",
-      imagem: "/cliente-claudio.jpg",
-      texto: "Excelente atendimento. Estávamos com problema de baratas e resolveram de primeira. Muito limpos e educados.",
+      imagem: "/cliente-fernando.jpg",
+      texto: "Excelente trabalho! Resolveram meu problema de vazamento rapidamente. Profissionais qualificados e muito prestáveis.",
     },
     {
       id: 2,
-      nome: "Juliana F.",
+      nome: "Mariana S.",
       profissao: "Comercial",
-      imagem: "/cliente-juliana.jpg",
-      texto: "Contratamos para a nossa loja. Precisávamos do certificado sanitário e de um controle rígido. Equipe nota 10, super pontuais.",
+      imagem: "/cliente-mariana.jpg",
+      texto: "Contratamos para a revisão elétrica da loja. Equipe muito competente, pontual e segura. Recomendo!",
     },
     {
       id: 3,
-      nome: "Roberto S.",
-      profissao: "Descupinização",
-      imagem: "/cliente-roberto.jpg",
-      texto: "Fizeram um trabalho técnico de descupinização no meu telhado. Explicaram todo o processo e o preço foi muito justo pela qualidade.",
+      nome: "Anderson L.",
+      profissao: "Pintura e Refrigeração",
+      imagem: "/cliente-anderson.jpg",
+      texto: "Fizeram a pintura e instalação do ar condicionado. Trabalho de qualidade, atentos aos detalhes e preço justo.",
     },
   ],
 
   // Metadados SEO
   seo: {
-    siteTitle: "Lady Bug Dedetizadora e Desentupidora | Controle de Pragas Maringá | (44) 99932-4635",
+    siteTitle: "Tetelestai Serviços Residenciais | Bombeiro, Eletricista, Pintura e Refrigeração | Rio de Janeiro",
     description:
-      "Lady Bug - Dedetizadora e Desentupidora em Maringá. Controle especializado de baratas, formigas, roedores e cupins. Atendimento profissional na Zona Norte e região metropolitana.",
-    url: "https://san-dedetizadora-verde.vercel.app",
+      "Tetelestai - Serviços técnicos profissionais no Rio de Janeiro. Bombeiro hidráulico, eletricista, pintura e refrigeração. Atendimento profissional em Campo Grande e região metropolitana. (21) 97195-6489",
+    url: "https://tetelestai-servicos.vercel.app",
     ogImage: "/og-image.jpg",
   },
 }
