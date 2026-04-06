@@ -13,6 +13,10 @@ import {
   Worm,
   BugOff,
   Rat,
+  Wrench,
+  Lightbulb,
+  Paintbrush,
+  Thermometer,
   type LucideIcon,
 } from "lucide-react"
 
@@ -26,6 +30,10 @@ const iconeMap: Record<string, LucideIcon> = {
   Worm,
   BugOff,
   Rat,
+  Wrench,
+  Lightbulb,
+  Paintbrush,
+  Thermometer,
 }
 
 const Page = () => {
