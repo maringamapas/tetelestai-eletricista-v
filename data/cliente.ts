@@ -21,7 +21,7 @@ export const dadosCliente = {
 
   // Conteúdo principal
   conteudo: {
-    tituloPrincipal: "Tetelestai Serviços Residênciais no Rio de Janeiro",
+    tituloPrincipal: "Tetelestai Serviços Residenciais no Rio de Janeiro",
     subtitulo: "Soluções Completas em Serviços!\nBombeiro hidráulico, eletricista, pintura e refrigeração. Atendimento profissional, técnicas especializadas e qualidade garantida. Resolvemos seus problemas com soluções eficazes e confiáveis!",
     sobreNos:
       "Somos a Tetelestai, especialistas em serviços técnicos residenciais com atendimento profissional em Campo Grande e região metropolitana do Rio de Janeiro. Oferecemos soluções completas em bombeiro hidráulico, eletricista, pintura e refrigeração. Nossa equipe experiente oferece atendimento rápido e confiável para residências e comércios, com garantia de trabalho seguro e eficaz.",
