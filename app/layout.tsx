@@ -14,6 +14,9 @@ export const metadata: Metadata = {
   description: dadosCliente.seo.description,
   metadataBase: new URL(dadosCliente.seo.url),
   generator: "v0.app",
+  verification: {
+    google: "OQ18zxm5jwjtUma02of36qhsH3hzOuIvHqnZSk-kd_A",
+  },
   openGraph: {
     title: dadosCliente.seo.siteTitle,
     description: dadosCliente.seo.description,
