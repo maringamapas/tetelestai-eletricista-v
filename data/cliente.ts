@@ -103,6 +103,6 @@ export const dadosCliente = {
     description:
       "Tetelestai - Serviços técnicos profissionais no Rio de Janeiro. Bombeiro hidráulico, eletricista, pintura e refrigeração. Atendimento profissional em Campo Grande e região metropolitana. (21) 97195-6489",
     url: "https://tetelestai-servicos.vercel.app",
-    ogImage: "/og-image.jpg",
+    ogImage: "/og-image-eletricista.jpg",
   },
 }
