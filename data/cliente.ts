@@ -12,7 +12,7 @@ export const dadosCliente = {
   // Informações de contato
   contato: {
     whatsappNumber: "5521970161801",
-    whatsappLink: "https://wa.me/5521970161801?text=Olá, Preciso de um orçamento!!",
+    whatsappLink: "https://wa.me/5521970161801?text=Olá, Preciso de um orçamento para serviços residenciais!",
     instagram: "https://instagram.com", // Adicione o link real se houver
     email: "",
     endereco: "R. Saquarema, 68 - Campo Grande - Rio de Janeiro - RJ, CEP: 23050-110",
