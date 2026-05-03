@@ -12,11 +12,11 @@ export const dadosCliente = {
   // Informações de contato
   contato: {
     whatsappNumber: "5521970161801",
-    whatsappLink: "https://wa.me/5521970161801?text=Olá, Preciso de um orçamento!!",
+    whatsappLink: "https://wa.me/5521970161801?text=Olá, Preciso de um orçamento para serviços residenciais!",
     instagram: "https://instagram.com", // Adicione o link real se houver
     email: "",
     endereco: "R. Saquarema, 68 - Campo Grande - Rio de Janeiro - RJ, CEP: 23050-110",
-    telefone: "(21) 97195-6489",
+    telefone: "(21) 97016-1801",
   },
 
   // Conteúdo principal
@@ -101,7 +101,7 @@ export const dadosCliente = {
   seo: {
     siteTitle: "Tetelestai Serviços Residenciais | Bombeiro, Eletricista, Pintura e Refrigeração | Rio de Janeiro",
     description:
-      "Tetelestai - Serviços técnicos profissionais no Rio de Janeiro. Bombeiro hidráulico, eletricista, pintura e refrigeração. Atendimento profissional em Campo Grande e região metropolitana. (21) 97195-6489",
+      "Tetelestai - Serviços técnicos profissionais no Rio de Janeiro. Bombeiro hidráulico, eletricista, pintura e refrigeração. Atendimento profissional em Campo Grande e região metropolitana. (21) 97016-1801",
     url: "https://tetelestai-servicos-residenciais-rj.vercel.app",
     ogImage: "/og-image-eletricista.jpg",
   },
